@@ -14,13 +14,33 @@ Piiii1
   5982534904 2875546873 1159562863 8823537875 9375195778 1857780532 1712268066 1300192787 6611195909 2164201989...
   
 --->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hyeon9%_6in&fontSize=80)
 
+<!---
+reference site
+
+https://github.com/anuraghazra/github-readme-stats
+--->
 
 
+<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"></a>
+
+<!---
+emoji ref
+https://doozi316.github.io/markdown/2020/08/10/MD2/
+--->
+##### 🐣 Piiiiiiii 🐥 
+  
 <a href="https://github.com/Piiii1/Piiii1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Piiii1/Piiii1&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 
+---
 
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piiii1&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer)
+
+</div>
